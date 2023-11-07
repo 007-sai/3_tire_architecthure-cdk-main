@@ -12,4 +12,4 @@ The template is highly customizable with many features thanks to the CDK's flexi
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
 
-Enjoy!
+
